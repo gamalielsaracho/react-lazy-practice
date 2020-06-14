@@ -1,0 +1,1 @@
+# This is only an example created using react lazy.
